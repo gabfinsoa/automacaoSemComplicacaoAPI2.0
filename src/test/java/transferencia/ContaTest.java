@@ -40,6 +40,7 @@ class ContaTest {
     @Test
     public void validarProprietario() {
         assertEquals(xuxa, contaXuxa.getProprietario());
+
     }
 
 }

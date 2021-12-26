@@ -11,6 +11,7 @@ class ContaTest {
     Cliente silvioSantos;
     Conta contaXuxa;
     Conta contaSilvio;
+    String testeGit;
 
 
     //Before Each Test   Use: ALT + INSERT
